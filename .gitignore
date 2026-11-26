@@ -1,0 +1,17 @@
+
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.vscode/
+*.h5
+*.keras
+*.pt
+*.pth
+*.safetensors
+*.mp4
+generated_epoch_*.png
+generated_image.png
+bias_analysis_results.csv
+t5-summarization/
+fine_tuned_t5/
