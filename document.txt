@@ -1,0 +1,20 @@
+
+Artificial Intelligence (AI) is a branch of computer science that focuses on creating machines capable of performing tasks that normally require human intelligence.
+
+Machine Learning (ML) is a subset of Artificial Intelligence that enables computers to learn from data and improve their performance without being explicitly programmed.
+
+Deep Learning is a subset of Machine Learning that uses artificial neural networks to learn complex patterns from large amounts of data.
+
+Natural Language Processing (NLP) is a field of Artificial Intelligence that helps computers understand, interpret, and generate human language.
+
+Generative AI is a type of Artificial Intelligence that can create new content such as text, images, audio, videos, and code.
+
+A Neural Network is a computational model inspired by the human brain. It consists of interconnected nodes called neurons that process information.
+
+A chatbot is an AI-based application that interacts with users through text or voice conversations and provides answers to their questions.
+
+Large Language Models (LLMs) are AI models trained on large amounts of text data to understand and generate human language.
+
+Transformers are deep learning architectures that use attention mechanisms to process sequential data efficiently.
+
+Applications of Artificial Intelligence include healthcare, education, banking, transportation, robotics, cybersecurity, and entertainment.
